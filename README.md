@@ -3,6 +3,7 @@
 Last updated: 2026-03-05
 
 Kese is a portfolio and personal finance tracking application. This policy explains what information we collect and how it is used.
+For non-premium users, financial data may be stored locally on the user's device and not transmitted to external servers.
 
 ## Information We Collect
 
