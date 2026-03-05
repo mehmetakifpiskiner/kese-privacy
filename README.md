@@ -32,15 +32,24 @@ Reasonable measures are taken to protect user data.
 ## Children’s Privacy
 Kese is not intended for children under the age of 13.
 
-## Data Deletion
+## Account Deletion
 
-Users may request deletion of their account and associated data at any time.
+Users can request deletion of their account and associated data.
 
-If you would like to delete your account or personal data, please contact us at:
+To delete your account:
 
-kese.mobil@gmail.com
+1. Send an email to: kese.mobil@gmail.com  
+2. Use the subject: "Account Deletion Request"  
+3. Include the email address used in the Kese app.
 
-Upon receiving a valid request, we will delete the user's account and associated data from our systems within a reasonable time.
+Once the request is received, the account and associated data will be permanently deleted within 7 days.
+
+Deleted data includes:
+- Full name
+- Portfolio data
+- Debt records
+
+Authentication data is managed by Supabase Auth and will also be removed.
 
 ## Contact
 For any questions regarding this policy please contact:
