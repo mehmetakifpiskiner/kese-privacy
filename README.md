@@ -34,7 +34,8 @@ Kese is not intended for children under the age of 13.
 
 ## Account Deletion
 
-Users can request deletion of their account and associated data.
+Users can delete portfolio and debt records directly within the application. 
+Full account deletion can be requested by contacting kese.mobil@gmail.com.
 
 To delete your account:
 
