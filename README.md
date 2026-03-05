@@ -32,6 +32,16 @@ Reasonable measures are taken to protect user data.
 ## Children’s Privacy
 Kese is not intended for children under the age of 13.
 
+## Data Deletion
+
+Users may request deletion of their account and associated data at any time.
+
+If you would like to delete your account or personal data, please contact us at:
+
+kese.mobil@gmail.com
+
+Upon receiving a valid request, we will delete the user's account and associated data from our systems within a reasonable time.
+
 ## Contact
 For any questions regarding this policy please contact:
 
